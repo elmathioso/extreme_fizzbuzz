@@ -1,0 +1,4 @@
+*.keras
+*.pkl
+.ipynb_checkpoints
+.Trash-0
